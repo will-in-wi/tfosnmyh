@@ -1,0 +1,5 @@
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\Midi\bin\Debug\myMidi.dll
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\Midi\bin\Debug\myMidi.pdb
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\Midi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\Midi\obj\Debug\myMidi.dll
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\Midi\obj\Debug\myMidi.pdb

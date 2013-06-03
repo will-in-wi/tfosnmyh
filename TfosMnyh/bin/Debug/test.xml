@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hymns>
+  <hymn>
+    <number>1</number>
+    <title>The Advent of Our King</title>
+    <tune>St. Thomas</tune>
+    <topic>Advent</topic>
+  </hymn>
+  <hymn>
+    <number>2</number>
+    <title>Savior of the Nations, Come</title>
+    <tune>Nun Komm, Der Heiden Heiland</tune>
+    <topic>Advent</topic>
+  </hymn>
+</hymns>

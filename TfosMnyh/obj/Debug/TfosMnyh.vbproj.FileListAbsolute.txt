@@ -1,0 +1,36 @@
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\bin\Debug\TfosMnyh.exe
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\bin\Debug\TfosMnyh.pdb
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\bin\Debug\TfosMnyh.xml
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\Window1.baml
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\Window1.g.vb
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\Application.g.vb
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\TfosMnyh_MarkupCompile.cache
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\TfosMnyh.g.resources
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\TfosMnyh.Resources.resources
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\TfosMnyh.vbproj.GenerateResource.Cache
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\TfosMnyh.exe
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\TfosMnyh.xml
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\TfosMnyh.pdb
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\winConfigure.baml
+C:\Users\William Johnston\AppData\Local\Temporary Projects\TfosMnyh\obj\Debug\winConfigure.g.vb
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\TfosMnyh.exe
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\TfosMnyh.xml
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\TfosMnyh.pdb
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\bin\Debug\TfosMnyh.exe
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\bin\Debug\TfosMnyh.pdb
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\bin\Debug\TfosMnyh.xml
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\winConfigure.baml
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\Window1.baml
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\winConfigure.g.vb
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\Window1.g.vb
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\Application.g.vb
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\TfosMnyh_MarkupCompile.cache
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\TfosMnyh.g.resources
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\TfosMnyh.Resources.resources
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\bin\Debug\TfosMnyh.exe.config
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\ResGen.read.1.tlog
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\obj\Debug\ResGen.write.1.tlog
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\bin\Debug\myMidi.dll
+C:\Users\William Johnston\Documents\Visual Studio 2008\Projects\TfosMnyh\TfosMnyh\bin\Debug\myMidi.pdb

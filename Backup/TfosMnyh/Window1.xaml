@@ -1,0 +1,42 @@
+﻿<Window x:Class="Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="TfosMnyh" Height="646" Width="1129" Name="Window1">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="103" />
+            <RowDefinition Height="438*" />
+            <RowDefinition Height="67" />
+        </Grid.RowDefinitions>
+        <Grid Name="Grid1">
+            <Label Margin="17,0,0,0" Name="lblTitle" FontSize="36" HorizontalAlignment="Left" Width="185" VerticalAlignment="Center">TfosMnyh</Label>
+            <Label FontSize="15" HorizontalAlignment="Right" Margin="0,45.218,165,27.832" Name="lblConfigure" Width="78" Focusable="True">Configure</Label>
+            <Label HorizontalAlignment="Right" Margin="0,45.218,89,27.832" Name="lblHelp" Width="47" FontSize="15" Focusable="True">Help</Label>
+        </Grid>
+        <TabControl Grid.Row="1" Name="tabMain">
+            <TabItem Header="Hymns" Padding="15,10" IsSelected="True">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="274*" />
+                        <RowDefinition Height="45.221" />
+                    </Grid.RowDefinitions>
+                    <TextBox Margin="12,11.369,0,12.631" Name="TextBox1" Grid.Row="1" HorizontalAlignment="Left" Width="280" />
+                    <Button Grid.Row="1" HorizontalAlignment="Right" Margin="0,11.369,722,10.631" Name="btnFilterHymns" Width="75">Filter</Button>
+                    <ListView Name="lstvwHymns" Margin="8,8,399,8" GridViewColumnHeader.Click="GridViewColumnHeaderClickedHandler">
+                    </ListView>
+                    <TextBox HorizontalAlignment="Right" Margin="0,8,8,8" Name="txtVerses" Width="383" IsReadOnly="True" IsUndoEnabled="False" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">Select a hymn to see the verses.</TextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Psalms" Padding="15,10" IsSelected="True">
+                <Grid></Grid>
+            </TabItem>
+            <TabItem Header="Canticles" Padding="15,10">
+                <Grid></Grid>
+            </TabItem>
+        </TabControl>
+        <Button Grid.Row="2" HorizontalAlignment="Left" Margin="210,0,0,30" Name="btnPlayPause" Width="75" Height="23" VerticalAlignment="Bottom">Play</Button>
+        <RadioButton Grid.Row="2" HorizontalAlignment="Left" Margin="13,0,0,37" Name="rdoFourPart" Width="189" GroupName="Melody" IsChecked="True" Height="16" VerticalAlignment="Bottom">Four Part Accompaniment</RadioButton>
+        <RadioButton Grid.Row="2" HorizontalAlignment="Left" Margin="13,0,0,13" Name="rdoMelody" Width="189" GroupName="Melody" Height="16" VerticalAlignment="Bottom">Melody</RadioButton>
+        <Button Grid.Row="2" HorizontalAlignment="Left" Margin="293,0,0,30" Name="btnStop" Width="75" Height="23" VerticalAlignment="Bottom">Stop</Button>
+    </Grid>
+</Window>
